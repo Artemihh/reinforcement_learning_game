@@ -1,0 +1,6 @@
+{
+  "name": "ChronoShift: Cooperative Time Puzzle",
+  "description": "A 2D split-screen cooperative puzzle game where actions in the Past dynamically reshape the Future, featuring an adaptive RL-driven NPC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
